@@ -1,8 +1,6 @@
 ## 👟 Aerostreet - Now Everyone Can Buy a Good Shoes
 
-<p align="center">
-  <img src="Elemen/Aerostreet-Landing-Page.png" alt="Aerostreet Landing Page Preview" width="900">
-</p>
+![Aerostreet Landing Page](Elemen/Aerostreet-Landing-Page.png)
 
 **Aerostreet** adalah brand sepatu lokal Indonesia yang dikenal dengan produk berkualitas dengan harga terjangkau, sesuai dengan slogannya *"Now Everyone Can Buy a Good Shoes"*.
 
